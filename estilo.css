@@ -1,0 +1,16 @@
+.topo{
+    background-color: blue;
+    font-family: monospace;
+    color: #fff;
+}
+
+#menu a{
+    text-decoration: none;
+    font-style: bold;
+    color: #fff;
+}
+
+#menu :hover{
+    text-decoration: none;
+    color: red;
+}
