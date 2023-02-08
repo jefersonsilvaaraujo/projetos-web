@@ -2,6 +2,7 @@
     background-color: blue;
     font-family: monospace;
     color: #fff;
+    padding-bottom: 5px;
 }
 
 #menu a{
@@ -11,6 +12,6 @@
 }
 
 #menu :hover{
-    text-decoration: none;
+    text-decoration: underline;
     color: red;
 }
